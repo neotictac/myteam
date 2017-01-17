@@ -1,0 +1,40 @@
+th{
+  text-align: center;
+  font-size: 22px;
+}
+td{
+  text-align: center;
+}
+.jumbotron.pittsburgh{
+  background-image: url(Pirates.jpg);
+  background-size: cover;
+  margin-top: 80px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  max-width: 1080px;
+  color: white;
+}
+.table-title-schedule{
+  color: black;
+  font-family: 'Amatic SC';
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+.table.table-bordered.schedule{
+  margin-left: 20px;
+  width: 500px;
+  color: black;
+}
+.table-title-roster{
+  color: black;
+  font-family: 'Amatic SC';
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+.table.table-striped.roster{
+  margin-left: 20px;
+  width: 500px;
+  color: black;
+}
